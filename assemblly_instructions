@@ -1,0 +1,7 @@
+to compile as .com for DOS
+
+add 'ORG 100h' at the start
+
+assemble with:
+nasm -f bin -o file.com file.asm
+
