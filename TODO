@@ -5,3 +5,5 @@ overlays
 watcom IDE/debugger
 macros
 Pseudo-BASIC
+local labels
+
