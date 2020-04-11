@@ -18,7 +18,7 @@ This was one of my first assembly programs, originally in DEBUG, it now lives as
 A simple program to test graphics drawn by the BIOS
 
 ### Diagonal rainbow
-![](rainbow.png "weird rainbow")<br/>
+![](diagbow.png "weird rainbow")<br/>
 Originally intended to be a simple rainbow, a minor error means it was offset at every line. i kept this version in a seperate file to the fixed version, as it looks very nice.
 
 ### Straightened rainbow
