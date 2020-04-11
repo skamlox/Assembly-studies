@@ -37,5 +37,7 @@ see: SmallerC-master/licsense.txt for SmallerC licsense (SmallerC by alextru)<br
 Have a good day!
 
 
-'/ |/<br/>\ |\<br/>/ | \'
+	/ |/
+	\ |\
+	/ | \
 
