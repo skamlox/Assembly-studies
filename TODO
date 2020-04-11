@@ -1,4 +1,4 @@
-Add Makefile -- with option from com or exe
+Add .exe option to Makefile
 Test suite
 multi-segments
 overlays
