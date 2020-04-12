@@ -26,6 +26,11 @@ Originally intended to be a simple rainbow, a minor error means it was offset at
 This is the fixed version of the previous program, colour selection and offset was fixed to straighten it<br/>
 <br/>
 
+### Bootable trans flag
+![](trans_flag.png "trans flag")<br/>
+This is a disk bootsector that draws a trans flag on screen and freezes the system completely<br/>
+<br/>
+
 Recommended programs:<br/>
 NASM     - assembly<br/>
 SmallerC - conversion to .EXE<br/>
