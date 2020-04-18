@@ -11,19 +11,19 @@ many files are designed for use with DOS and rely on the DOS API<br/>
 
 ### Hello, DOS!
 ![](hellodos.png "Hello, Dos!")<br/>
-This was one of my first assembly programs, originally in DEBUG, it now lives as a nasm-formatted .asm file.
+This was one of my first assembly programs, i originally wrote it in DOS DEBUG.<br/>
 
 ### Red Line
 ![](line.png "red line")<br/>
-A simple program to test graphics drawn by the BIOS
+This was a simple program to try out drawing graphics using the BIOS<br/>
 
 ### Diagonal rainbow
 ![](diagbow.png "weird rainbow")<br/>
-Originally intended to be a simple rainbow, a minor error means it was offset at every line. i kept this version in a seperate file to the fixed version, as it looks very nice.
+This was originally supposed to be a straight rainbow as below, but i forgot to reset the colour value at every line, meaning it was offset every time, the colour selection was also wrong<br/>
 
 ### Straightened rainbow
 ![](rainbow_correct.png "straigtened rainbow")<br/>
-This is the fixed version of the previous program, colour selection and offset was fixed to straighten it<br/>
+This program is the fixed version of the one above, i fixed the mistakes meaning that it's perfectly straight<br/>
 <br/>
 
 ### Bootable trans flag
