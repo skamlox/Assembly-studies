@@ -1,0 +1,4 @@
+assemble with nasm.
+use:
+nasm -f bin -o out.com in.asm -- for a .com file (for compatibility include org 100h at start of file)
+
