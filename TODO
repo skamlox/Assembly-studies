@@ -3,8 +3,5 @@ Test suite
 multi-segments
 overlays
 watcom IDE/debugger
-macros
-Pseudo-BASIC
-local labels
 data structures
 load debug data from obj, use gdb with exe
