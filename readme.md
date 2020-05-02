@@ -32,9 +32,10 @@ This is a disk bootsector that draws a trans flag on screen and freezes the syst
 <br/>
 
 Recommended programs:<br/>
-NASM     - assembly<br/>
-SmallerC - conversion to .EXE<br/>
-Dosbox   - execution<br/>
+NASM     - Assembly<br/>
+SmallerC - Conversion to .EXE<br/>
+Dosbox   - Running DOS programs<br/>
+qemu     - Tunning bootable/BIOS programs<br/>
 
 Most code licensed under the GNU GPL license v3.0<br/>
 see: SmallerC-master/licsense.txt for SmallerC licsense (SmallerC by alextru)<br/>
