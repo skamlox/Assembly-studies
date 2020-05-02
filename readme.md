@@ -35,7 +35,7 @@ Recommended programs:<br/>
 NASM     - Assembly<br/>
 SmallerC - Conversion to .EXE<br/>
 Dosbox   - Running DOS programs<br/>
-qemu     - Tunning bootable/BIOS programs<br/>
+qemu     - Running bootable/BIOS programs<br/>
 
 Most code licensed under the GNU GPL license v3.0<br/>
 see: SmallerC-master/licsense.txt for SmallerC licsense (SmallerC by alextru)<br/>
