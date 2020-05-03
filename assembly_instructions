@@ -1,4 +1,5 @@
 assemble with nasm.
 use:
-nasm -f bin -o out.com in.asm -- for a .com file (for compatibility include org 100h at start of file)
 
+nasm -f bin -o out.com in.asm -- for a .com file (for compatibility include org 100h at start of file)
+nasm -f bin -o out.bin in.asm -- for a .bin file (for bootable programs, be sure include padding and boot marker)
